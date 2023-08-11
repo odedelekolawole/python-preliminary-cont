@@ -1,0 +1,7 @@
+Create a list called students
+Write the code that dispaly the number of element in the list
+Change the second in the list to 'Prosper'
+Remove your name from the list
+Add list ['Esther', 'Valie']  to the existing list
+Return the first three element of that student list
+

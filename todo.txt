@@ -1,0 +1,8 @@
+To-Do
+
+1. Tuples
+2. Sets
+3. Conditional Statement
+4. Iterations
+
+
